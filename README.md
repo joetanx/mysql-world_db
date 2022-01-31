@@ -1,3 +1,4 @@
+# Setup MySQL database
 - Install MySQL server
 - Enable MySQL server to start with system
 - Allow MySQL communiction on firewalld
