@@ -29,6 +29,5 @@ ls -l /var/lib/mysql/world
 ```
 - Clean-up
 ```console
-rm -f world-db.tar.gz
-rm -rf world-db
+rm -rf world-db.tar.gz world-db .mysql_history
 ```
